@@ -239,3 +239,6 @@ This repository serves as the official landing page for Free Easy CD DVD Burner.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Easy CD DVD Burner today!**
+
+---
+**Last updated:** 2026-09-09 13:13:47 UTC
